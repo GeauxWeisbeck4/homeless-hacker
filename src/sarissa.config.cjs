@@ -1,15 +1,15 @@
 export default {
-  siteTitle: "Sarissa Blog",
-  siteDescription: "Responsive Blog Template",
+  siteTitle: "Homeless Hacker",
+  siteDescription: "Journey with Andrew and Lisa through homelessness, love, and tech.",
   favicon: "/favicon.ico",
-  siteImagePath: "/images/sarissa.png",
-  footer: "© 1967 - 2022 Sarissa Blog",
+  siteImagePath: "/images/homelesshackerslogo.png",
+  footer: "© 2023 Homeless Hacker",
   dateFormat: "dd.MM.yyyy HH:mm",
   socialMedia: {
-    facebook: "ozcelikismail",
-    twitter: "ismailozcelik",
-    linkedin: "ismail-özçelik",
-    github: "iozcelik",
+    facebook: "homelesshacker",
+    twitter: "homelesshacker4",
+    linkedin: "geauxweisbeck4",
+    github: "geauxweisbeck4",
   },
   pageSize: 5,
   categories: [
