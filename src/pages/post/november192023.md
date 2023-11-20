@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: November 19 2023
-image: https://www.canva.com/design/DAF0qXIhbp8/Onb3jy2bJwWkWZISbIe7dg/edit?utm_content=DAF0qXIhbp8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+image: "/images/nov192023.png"
 date: 2023-11-19 05:44
 categories:
   - daily
